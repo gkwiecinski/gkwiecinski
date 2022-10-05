@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gkwiecinski
 - 👀 I’m interested in Business Central
-- 🌱 I’m currently learning Azure AZ-204
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently preparing to Azure AZ-204 Certificate
+- 💞️ I’m looking to collaborate on BC Develepment
+- 📫 How to reach me g.kwiecinski@htomail.com
 
 <!---
 Cancel changesgkwiecinski/gkwiecinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
