@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gkwiecinski
 - 👀 I’m interested in Business Central
-- 🌱 I’m currently preparing to Azure AZ-204 Certificate
+- 🌱 I’m currently preparing to Azure MB-820 Certificate
 - 💞️ I’m looking partners to collaborate on BC Develepment
 - 📫 How to reach me g.kwiecinski@hotmail.com
 
